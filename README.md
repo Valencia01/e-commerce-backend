@@ -17,7 +17,7 @@ This is an e-commerce site using express.js configured to use sequelize to inter
 
 ### Executing program
 
-[Video]()
+[Video](https://drive.google.com/file/d/1B2nRi6TWI8alFHwzCF51s3-VNW9ofH9o/view)
 
 ## Author(s)
 
